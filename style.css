@@ -106,7 +106,7 @@ ul {
 ul li {
   display: flex;   
   color: var(--color-stone-600);
-  padding-left: 10px;
+  padding-left: 3%;
   gap: 5px;
   margin-bottom: 10px;
   align-items: flex-start;
@@ -115,7 +115,7 @@ ul li {
 ul li::before {
   content: "•";     
   color: var(--color-rose-800);  
-  padding-right: 25px;
+  padding-right: 5%;
   font-size: 24px;
 }
 
