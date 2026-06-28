@@ -63,7 +63,7 @@ h2 {
 
 h3 {
     color: var( --color-rose-800);
-    font-size: 20px;
+    font-size: 18px;
     margin: 10px;
 }
 
@@ -109,7 +109,7 @@ ul li {
   padding-left: 10px;
   gap: 5px;
   margin-bottom: 10px;
-  align-items: center;
+  align-items: flex-start;
 }
 
 ul li::before {
