@@ -1,6 +1,6 @@
 # Frontend Mentor - Recipe page solution
 
-This is a solution to the [Recipe page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/recipe-page-Ki5UXg6N9M). Frontend Mentor challenges help you improve your real-world coding skills by building realistic projects.
+This is a solution to the [Recipe page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
@@ -23,12 +23,11 @@ The challenge was to build out a recipe page and get it looking as close to the 
 ![](./design/desktop-view2.png)
 ![](./design/mobile-view1.png)
 ![](./design/mobile-view2.png)
-*(Tip: Replace this path with a screenshot of your finished project once you push it live!)*
 
 ### Links
 
-- Solution URL: 
-- Live Site URL: 
+- Solution URL: [https://github.com/ZinThuAung-LAB/Recipe-Page-Frontend_Mentor.git](https://github.com/ZinThuAung-LAB/Recipe-Page-Frontend_Mentor.git)
+- Live Site URL: [https://zinthuaung-lab.github.io/Recipe-Page-Frontend_Mentor/](https://zinthuaung-lab.github.io/Recipe-Page-Frontend_Mentor/)
 
 
 ### Built with
